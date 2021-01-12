@@ -17,6 +17,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+-[] @mentions, #refs, [links](), **Formating**
+-[] list syntax
+-[] this is complete item
+-[] this is n incomplete item
+
 - Bulleted
 - List
 
