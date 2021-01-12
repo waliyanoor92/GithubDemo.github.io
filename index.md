@@ -2,6 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/waliyanoor92/GithubDemo.github.io/edit/Master/README.md) to maintain and preview the content for your website in Markdown files.
 
+[Link to Bing](https://www.bing.com) to search additional information.
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
